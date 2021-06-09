@@ -1,2 +1,2 @@
-# PLD1
-Software for Pulsed Laser Deposition 
+# PLD1-Clinet
+Software which connect devices for Pulsed Laser Deposition 
